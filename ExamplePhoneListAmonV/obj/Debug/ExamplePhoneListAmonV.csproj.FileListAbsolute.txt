@@ -38,3 +38,11 @@ F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV -
 F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csproj.GenerateResource.Cache
 F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.exe
 F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.pdb
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe.config
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.pdb
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csprojResolveAssemblyReference.cache
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.MainForm.resources
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csproj.GenerateResource.Cache
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.exe
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.pdb

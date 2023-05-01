@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfUzivatel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Uzivatel Jméno="Vojta" Přijmení="Amon" TelefonniCislo="714145141" EmailovaAdresa="vojtechamon@gmail.com" PracovniFunkce="Developer" />
+  <Uzivatel Jméno="aa" Přijmení="aa" TelefonniCislo="aa" EmailovaAdresa="aa" PracovniFunkce="aa" />
+  <Uzivatel Jméno="Geralt" Přijmení="WhiteWolf" TelefonniCislo="741545121" EmailovaAdresa="geralt@ofrivia.com" PracovniFunkce="The Witcher" />
+  <Uzivatel Jméno="Triss" Přijmení="Ranuncul" TelefonniCislo="741545121" EmailovaAdresa="Trisst@Ranuncul.com" PracovniFunkce="The Witch" />
+  <Uzivatel Jméno="Yennefer" Přijmení="Z Vengerbergu" TelefonniCislo="741545121" EmailovaAdresa="Yennefert@Z Vengerbergul.com" PracovniFunkce="The Witch" />
+  <Uzivatel Jméno="Marigold" Přijmení="Bard" TelefonniCislo="741545121" EmailovaAdresa="Marigoldt@Bard.com" PracovniFunkce="Bard" />
 </ArrayOfUzivatel>
