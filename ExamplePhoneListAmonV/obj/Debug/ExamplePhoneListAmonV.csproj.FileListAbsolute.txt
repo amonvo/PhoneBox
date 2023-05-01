@@ -1,0 +1,40 @@
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe.config
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.pdb
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csprojResolveAssemblyReference.cache
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.exe
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.pdb
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.MainForm.resources
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csproj.GenerateResource.Cache
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe.config
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.pdb
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csprojResolveAssemblyReference.cache
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.MainForm.resources
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csproj.GenerateResource.Cache
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.exe
+C:\Users\amonv\OneDrive\Dokumenty\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.pdb
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe.config
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.pdb
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csprojResolveAssemblyReference.cache
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.MainForm.resources
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csproj.GenerateResource.Cache
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.exe
+C:\Users\Petr\Documents\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.pdb
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe.config
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.pdb
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csprojResolveAssemblyReference.cache
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.MainForm.resources
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csproj.GenerateResource.Cache
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.exe
+C:\Users\amonv\OneDrive\Plocha\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.pdb
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe.config
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.exe
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\bin\Debug\ExamplePhoneListAmonV.pdb
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csprojResolveAssemblyReference.cache
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.MainForm.resources
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.csproj.GenerateResource.Cache
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.exe
+F:\Vojta\ZalohaNotebookuDell\Škola\SharpDevelop Projects\ExamplePhoneBoxAmonV - kopie\ExamplePhoneListAmonV\obj\Debug\ExamplePhoneListAmonV.pdb
